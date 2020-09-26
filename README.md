@@ -1,2 +1,2 @@
 # Deep-learning
-Courser Deep learning Specialization by Andrew_Ng
+Coursera Deep learning Specialization by Andrew_Ng
